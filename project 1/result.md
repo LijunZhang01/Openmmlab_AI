@@ -12,7 +12,7 @@ python tools/train.py data/rtmdet_tiny_ear.py
 结果如下：
 ![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/74da75d2-fef5-4396-86fb-bc35727c63d6)
 
-
+**关键点检测**
 关键点检测训练命令：
 
 ```
@@ -22,8 +22,8 @@ python tools/train.py data/rtmpose-s-ear.py
 训练过程截图：
 ![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/8a9c68d8-c394-45ba-bc12-33f0bcb7d6e7)
 
+结果如下：
 
-**关键点检测**
-
+![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/307046bf-2c35-4867-8c96-adaf68e42be5)
 
 ​
