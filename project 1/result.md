@@ -30,7 +30,8 @@ python tools/train.py data/rtmpose-s-ear.py
 测试结果：
 **图片**
 原图：
-![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/2dde07ec-9c06-458c-84ff-c47cb82c65a3)
+![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/d7a93628-1edc-4f70-9ad2-eb345ca851f0)
+
 
 测试结果：
 ![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/3949bd82-cbf1-4b33-a792-e832eeb82770)
