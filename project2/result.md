@@ -9,3 +9,4 @@
 # 验证集结果
 ![image](https://github.com/LijunZhang01/Openmmlab_AI/assets/87029081/49f78489-aada-4095-a12f-a104f0a738e1)
 # 图片测试
+超，服务器没申请到，代码都在上面，等我补
